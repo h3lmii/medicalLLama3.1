@@ -2,8 +2,10 @@
 
 This project is a Gradio-based AI assistant that provides medical advice based on user-reported symptoms. The AI assistant is powered by a large language model and is deployed as a containerized application using Docker.
 
-## Features
+![Uploading image.png…]()
 
+
+## Features
 - Enter a description of your symptoms or medical query.
 - Receive a response from the AI, simulating a doctor’s advice based on the input.
 - Dockerized application for easy deployment.
