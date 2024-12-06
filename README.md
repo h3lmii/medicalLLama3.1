@@ -28,7 +28,7 @@ cd doctor-ai-app
 from llama_cpp import Llama
 
 llm = Llama.from_pretrained(
-    repo_id="your-username/doctor-ai-model",
+    repo_id="h3lmi/modelgguf",
     filename="unsloth.Q8_0.gguf",
 )
 ```
@@ -41,11 +41,10 @@ python doctor_ai_app.py
 If you prefer to run the app using Docker, follow these steps:
 ```
 docker build -t doctor-ai-app .
-
+```
+Or you can pull it from docker hub:
+```
+docker pull h3lmii/doctor-ai-app
 docker run -p 7860:7860 doctor-ai-app
 
 ```
-
-
-
-
