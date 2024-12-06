@@ -2,7 +2,7 @@
 
 This project is a Gradio-based AI assistant that provides medical advice based on user-reported symptoms. The AI assistant is powered by a large language model and is deployed as a containerized application using Docker.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/47fddd8c-60a8-4a7a-8848-5f0357ab5859)
 
 
 ## Features
@@ -21,6 +21,7 @@ We provide a Jupyter notebook (`llama3.1_finetuning_unsolth.ipynb`) for fine-tun
 git clone https://github.com/your-username/doctor-ai-app.git
 cd doctor-ai-app
 ```
+## How to run 🏃🏃
 
 ### To use the fine-tuned model from Hugging Face:
 ```
