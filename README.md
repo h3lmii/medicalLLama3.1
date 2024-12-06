@@ -37,6 +37,13 @@ To run the Gradio app locally, simply execute:
 ```
 python doctor_ai_app.py
 ```
+To run the Streamlit app locally, simply execute:
+
+```
+streamlit run doctor_ai_app_streamlit.py
+```
+
+
 ### Run the app in Docker:
 If you prefer to run the app using Docker, follow these steps:
 ```
