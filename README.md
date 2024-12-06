@@ -23,7 +23,7 @@ cd doctor-ai-app
 ```
 ## How to run 🏃🏃
 
-### To use the fine-tuned model from Hugging Face:
+### To use the fine-tuned model from Hugging Face: https://huggingface.co/h3lmi/modelgguf
 ```
 from llama_cpp import Llama
 
