@@ -20,7 +20,7 @@ base_prompt = """
 # Define a function to generate model output
 def generate_response(patient_query):
     formatted_prompt = base_prompt.format(patient_query)
-    output = llm(formatted_prompt, max_tokens=256, echo=True)
+    output = llm(formatted_prompt, max_tokens=256, echo=False)
     return output['choices'][0]['text']
 
 # Create the Gradio interface
