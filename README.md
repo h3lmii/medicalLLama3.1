@@ -4,6 +4,8 @@ This project is a Gradio-based AI assistant that provides medical advice based o
 
 ![image](https://github.com/user-attachments/assets/47fddd8c-60a8-4a7a-8848-5f0357ab5859)
 
+You can also use a full conversational chatbot format.
+![image](https://github.com/user-attachments/assets/bc5211da-8bd6-4364-a111-bae5c75f017b)
 
 ## Features
 - Enter a description of your symptoms or medical query.
