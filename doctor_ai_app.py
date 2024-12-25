@@ -32,5 +32,4 @@ interface = gr.Interface(
     description="Enter your symptoms to get advice from the AI doctor.", # description
 )
 
-if __name__ == "__main__":
-    interface.launch()
+interface.launch(server_name="0.0.0.0")
